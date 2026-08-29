@@ -1,0 +1,6 @@
+product_name = input("Enter product name: ")
+price = input("Enter Price: ")
+quantity = input("Enter quantity: ")
+print(f"Product NAme: {product_name}\n")
+print(f"Price: {price}\n")
+print(f"Quantity: {quantity}")
