@@ -1,0 +1,2 @@
+s = "vyshnavi"
+print()

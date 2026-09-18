@@ -1,2 +1,2 @@
-products = "Laptop, Mouse, Cabel"
+products = "Laptop,Mouse,Cabel"
 print(products.split(","))

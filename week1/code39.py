@@ -1,0 +1,7 @@
+print(int(7.9))          
+print(int(-7.9))         
+print(int("42"))         
+print(int("42.5"))       
+print(int(True))         
+print(int("101", 2))     
+print(int("ff", 16)) 
