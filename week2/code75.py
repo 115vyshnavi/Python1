@@ -1,2 +1,3 @@
 p = "1234"
-len(p).isdigit()
+
+print(len(p) == 4 and p.isdigit())
