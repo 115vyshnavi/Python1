@@ -12,3 +12,5 @@ class Solution(object):
             for j in range(counts[num]):
                 nums[i] = num
                 i += 1
+
+                
